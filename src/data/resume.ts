@@ -285,7 +285,7 @@ export const PERSONAL_INFO: PersonalInfo = {
   linkedin: "https://linkedin.com/in/jishnup11",
   resumePdfUrl: "https://drive.google.com/drive/folders/1HeRvWPEpRkziFeEPOdMjbnp-4mVFmYl0",
   summary:
-    "AI & Deep Learning Scientist with 4.3+ years of experience building production-grade Generative AI, Agentic AI, Multimodal AI, and end-to-end Computer Vision systems. Published researcher (peer-reviewed journal) with patents in AI-driven healthcare CV, specializing in LLMs, Agentic RAG, Diffusion Models, Transformers, and scalable AI deployments.",
+    "AI & Deep Learning Scientist with 4+ years of experience building production-grade Generative AI, Agentic AI, Multimodal AI, and end-to-end Computer Vision systems. Published researcher (peer-reviewed journal) with patents in AI-driven healthcare CV, specializing in LLMs, Agentic RAG, Diffusion Models, Transformers, and scalable AI deployments.",
 };
 
 export const HERO_METRICS: HeroMetric[] = [
